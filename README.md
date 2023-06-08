@@ -1,7 +1,7 @@
 # Rick and Morty Fanpage!
 Created with Vue 3.0.    
 100% responsive 📱 💻 🖥️.       
-[Live Demo here! ⬅️](https://balexandermunoz.github.io/guane-test-frontend/)
+[Live Demo here! ⬅️](https://balexandermunoz.github.io/Rick-And-Morty-Fanpage/)
 
 ## Project setup
 ```
